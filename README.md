@@ -4,4 +4,6 @@ On a d'un côté les jeux de données au format .csv, et de l'autre les différe
 
 Il s'agit de cette compétition Kaggle : https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
-Je suis contactable par mail ou via Linkedin.
+Je suis contactable par mail ou via Linkedin pour toutes questions.
+
+Simon Heilles
